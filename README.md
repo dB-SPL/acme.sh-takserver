@@ -1,4 +1,4 @@
-acme.sh-takserver: Automate TAK Server Certificates with acme.sh
+# acme.sh-takserver: Automate TAK Server Certificates with acme.sh
 ************************************
 
 acme.sh is an ACME protocol client used for TLS certificate issuance and automated
